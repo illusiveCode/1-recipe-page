@@ -12,7 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![Project-Screenshot](./screenshot.png)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://one-page-recipe.netlify.app/)
 
 ### Built with
 
@@ -27,7 +27,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- LinkedIn - [Muhammad Raza](https://www.linkedin.com/in/frontend-developer-muhammad-raza/)
 - Frontend Mentor - [@illusiveCode](https://www.frontendmentor.io/profile/illusiveCode)
 
 ### Thanks for reading!
