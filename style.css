@@ -186,6 +186,5 @@ table th, table td {
   table {
     border-collapse: collapse;
     text-align: left;
-    min-width: 100%;
   }
 }
